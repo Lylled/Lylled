@@ -21,15 +21,15 @@ At the moment I'm most interested in AI in software development, Cyber Security 
 - **AI workflow automation:** Scheduled AI agent tasks (more below)
 - **AI in projects:** LLM-based tagging and descriptions in the Name generator's data pipeline (more below) and an AI answering bot for short-term rental guest messages (in progress)
 
-### Data
-- **Tableau Desktop Foundations - Salesforce Certified:** Done in my free time out of interest in data visualization
-- **Power BI:** Used daily as a recruitment consultant tracking sales and performance targets
-- **SQL:** MySQL and PostgreSQL on projects
-
 ### Cyber Security
 - **Security fundamentals:** Core concepts, common attack types and best practices 
 - **Capture The Flag exercises:** TryHackMe
 - **Linux command line:** Navigating and searching file systems, file permissions, processes, piping and text processing (grep, find, awk), SSH
+
+### Data
+- **Tableau Desktop Foundations - Salesforce Certified:** Done in my free time out of interest in data visualization
+- **Power BI:** Used daily as a recruitment consultant tracking sales and performance targets
+- **SQL:** MySQL and PostgreSQL on projects
 
 ---
 
