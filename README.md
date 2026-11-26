@@ -14,6 +14,11 @@ At the moment I'm most interested in AI in software development, Cyber Security 
 - **AI-assisted coding:** Generally my school work is manually coded and my own projects are AI-assisted. I use AI as a tool to work faster, while understanding and reviewing every line I ship.
 - **Other:** GitHub, Docker, API basics
 
+### AI
+- **AI-assisted development:** AI as a daily tool in my own projects, with every line understood and reviewed
+- **AI workflow automation:** Scheduled AI agent tasks (more below)
+- **AI in projects:** LLM-based tagging and descriptions in the Name generator's data pipeline (more below) and an AI answering bot for short-term rental guest messages (in progress)
+
 ### Data
 - **Tableau Desktop Foundations - Salesforce Certified:** Done in my free time out of interest in data visualization
 - **Power BI:** Used daily as a recruitment consultant tracking sales and performance targets
@@ -43,6 +48,14 @@ Mobile application built in my own time to track personal and household expenses
 ### [Name Generator](https://github.com/Lylled/nimigeneraattori) ➡️ [Live Demo](https://lylled.github.io/nimigeneraattori/)
 
 Web application built in my own time that generates period-appropriate Finnish names for characters in creative projects. The name lists are built with a Python data pipeline, and the front end uses React, TypeScript and Vite. It is deployed as a static site on GitHub Pages through GitHub Actions, with automated tests in Vitest. Beyond basic name generation, the app adds surnames that match the era and region, so a western Finnish character born in the early 1800s gets a patronymic and a farm name instead of a modern surname. It also supports Finland-Swedish and Orthodox naming traditions, style filters, and name cards showing each name's origin and a popularity chart. AI was used to help tag and describe the names before the site was published, so the site itself makes no AI calls, which keeps it fast and free to host.
+
+### AI Agents
+
+####Job Market Technology Tracker
+Scheduled AI agent that analyzes new junior IT job postings on Duunitori every week. A Python scraper (requests, BeautifulSoup) collects new postings and pre-classifies them, after which the agent reviews each one, filters out unsuitable roles and extracts required and nice-to-have technologies by category, such as Data, AI and Cyber Security. The results are added to two cumulative reports, one for roles requiring no experience and one for roles requiring less than two years, so the data grows week by week. Totals are verified with a script after each update.
+
+####Weekly IT News Digest
+Scheduled AI agent that compiles the previous week's IT news every Monday into a structured digest covering cyber security, AI tools for developers, the Finnish IT job market and selected companies and public sector organizations. The instructions require the agent to verify publication dates, cite a source for every item and clearly separate confirmed news from rumors. Each item includes a note on why it matters to someone early in their IT career.
 
 ---
 
