@@ -6,6 +6,8 @@ At the moment I'm most interested in AI in software development, Cyber Security 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LyydiLiinamaa-0A66C2)](https://www.linkedin.com/in/lyydi-liinamaa)
 
+---
+
 ## 🔧 My skills
 
 ### Coding
@@ -51,10 +53,10 @@ Web application built in my own time that generates period-appropriate Finnish n
 
 ### AI Agents
 
-####Job Market Technology Tracker
+#### Job Market Technology Tracker
 Scheduled AI agent that analyzes new junior IT job postings on Duunitori every week. A Python scraper (requests, BeautifulSoup) collects new postings and pre-classifies them, after which the agent reviews each one, filters out unsuitable roles and extracts required and nice-to-have technologies by category, such as Data, AI and Cyber Security. The results are added to two cumulative reports, one for roles requiring no experience and one for roles requiring less than two years, so the data grows week by week. Totals are verified with a script after each update.
 
-####Weekly IT News Digest
+#### Weekly IT News Digest
 Scheduled AI agent that compiles the previous week's IT news every Monday into a structured digest covering cyber security, AI tools for developers, the Finnish IT job market and selected companies and public sector organizations. The instructions require the agent to verify publication dates, cite a source for every item and clearly separate confirmed news from rumors. Each item includes a note on why it matters to someone early in their IT career.
 
 ---
