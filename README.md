@@ -19,7 +19,7 @@ At the moment I'm most interested in AI in software development, Cyber Security 
 ### AI
 - **AI-assisted development:** AI as a daily tool in my own projects, with every line understood and reviewed
 - **AI workflow automation:** Scheduled AI agent tasks (more below)
-- **AI in projects:** LLM-based tagging and descriptions in the Name generator's data pipeline (more below) and an AI answering bot for short-term rental guest messages (in progress)
+- **AI in projects:** LLM-based tagging and descriptions in the Name Generator's data pipeline (more below) and an AI answering bot for short-term rental guest messages (in progress)
 
 ### Cyber Security
 - **Security fundamentals:** Core concepts, common attack types and best practices 
