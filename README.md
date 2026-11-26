@@ -1,27 +1,27 @@
 ## Hi, I'm Lyydi Liinamaa. Welcome to my page!👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LyydiLiinamaa-0A66C2)](https://www.linkedin.com/in/lyydi-liinamaa)
-
 I'm a Software Development Student in Oulu University of Applied Sciences. I have a background in IT recruitment consulting where I realized I wanted to actually take part in building something. I took the leap and found my passion!
 
 At the moment I'm most interested about AI in software development, Cyber Security and Data. 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LyydiLiinamaa-0A66C2)](https://www.linkedin.com/in/lyydi-liinamaa)
+
 ## 🔧 My skills
 
 ### Coding
-- *Most used languages:* React, JavaScript and TypeScript
-- *Other languages I have at least advanced basic knowledge in:*  Python, C++, C, Java, Kotlin, CSS and HTML
-- *AI assisted coding* Generally my school work is manual code and own projects are AI assisted, but *NOT* vibe coded. I use AI as a tool that lets me code quicker, not a worker that does the whole job.
-- *Other* Github, Docker, API basics
+- **Most used languages:** React, JavaScript and TypeScript
+- **Other languages I have at least advanced basic knowledge in:**  Python, C++, C, Java, Kotlin, CSS and HTML
+- **AI assisted coding** Generally my school work is manual code and own projects are AI assisted, but *NOT* vibe coded. I use AI as a tool that lets me code quicker, not a worker that does the whole job.
+- **Other** Github, Docker, API basics
 
 ### Data
-- *Tableau Desktop Foundations - Salesforce Certified* Done on my free time out of interest for data visualization
-- *Power BI* as a user as a recruitment consultant heavily focused on measurable targets
-- *SQL* MySQL and PostgreSQL on projects
+- **Tableau Desktop Foundations - Salesforce Certified** Done on my free time out of interest for data visualization
+- **Power BI** as a user as a recruitment consultant heavily focused on measurable targets
+- **SQL** MySQL and PostgreSQL on projects
 
 ### Cyber Security
-- *Own studies in how Cyber Security works* Basic tools, vocabulary and best practises 
-- *Catch The Flag excercises* 
+- **Own studies in how Cyber Security works** Basic tools, vocabulary and best practises 
+- **Catch The Flag excercises** 
 
 ---
 
@@ -49,10 +49,10 @@ Web application built on my own time that generates period-appropriate Finnish n
 
 After completing the projects I'm working on at the moment, I want to focus on Catch The Flag excercises and developing more advanced AI functionalities in applications.  
 
-*Projects I'm working on*
+**Projects I'm working on**
 - Budgeting App (see above)
 - [AI automated answering bot for short-term rental management](https://github.com/Lylled/automaticanswer)
 
-*Projects I'm planning*
+**Projects I'm planning**
 - Personal AI assistant
 - Electricity price tracker
