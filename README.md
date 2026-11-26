@@ -1,4 +1,4 @@
-## Hi, I'm Lyydi Liinamaa. Welcome to my page!👋
+## Hi, I'm Lyydi. Welcome to my page!👋
 
 I'm a software development student at Oulu University of Applied Sciences. I have a background in IT recruitment consulting where I realized I wanted to actually take part in building something. I took the leap and found my passion!
 
