@@ -66,7 +66,7 @@ Scheduled AI agent that compiles the previous week's IT news every Monday into a
 After completing the projects I'm working on at the moment, I want to focus on Capture The Flag exercises and developing more advanced AI functionalities in applications.  
 
 **Projects I'm working on**
-- Budgeting App (see above)
+- [Budgeting App (see above)](https://github.com/Lylled/Expense-App)
 - [AI automated answering bot for short-term rental management](https://github.com/Lylled/automaticanswer)
 
 **Projects I'm planning**
