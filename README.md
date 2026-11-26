@@ -1,53 +1,54 @@
 ## Hi, I'm Lyydi Liinamaa. Welcome to my page!👋
 
-I'm a Software Development Student in Oulu University of Applied Sciences. I have a background in IT recruitment consulting where I realized I wanted to actually take part in building something. I took the leap and found my passion!
+I'm a software development student at Oulu University of Applied Sciences. I have a background in IT recruitment consulting where I realized I wanted to actually take part in building something. I took the leap and found my passion!
 
-At the moment I'm most interested about AI in software development, Cyber Security and Data. 
+At the moment I'm most interested in AI in software development, Cyber Security and Data. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LyydiLiinamaa-0A66C2)](https://www.linkedin.com/in/lyydi-liinamaa)
 
 ## 🔧 My skills
 
 ### Coding
-- **Most used languages:** React, JavaScript and TypeScript
-- **Other languages I have at least advanced basic knowledge in:**  Python, C++, C, Java, Kotlin, CSS and HTML
-- **AI assisted coding** Generally my school work is manual code and own projects are AI assisted, but *NOT* vibe coded. I use AI as a tool that lets me code quicker, not a worker that does the whole job.
-- **Other** Github, Docker, API basics
+- **Most used technologies:** React, JavaScript and TypeScript
+- **Languages I have basic working knowledge in:**  Python, C++, C, Java, Kotlin, CSS and HTML
+- **AI-assisted coding:** Generally my school work is manually coded and my own projects are AI-assisted. I use AI as a tool to work faster, while understanding and reviewing every line I ship.
+- **Other:** GitHub, Docker, API basics
 
 ### Data
-- **Tableau Desktop Foundations - Salesforce Certified** Done on my free time out of interest for data visualization
-- **Power BI** as a user as a recruitment consultant heavily focused on measurable targets
-- **SQL** MySQL and PostgreSQL on projects
+- **Tableau Desktop Foundations - Salesforce Certified:** Done in my free time out of interest in data visualization
+- **Power BI:** Used daily as a recruitment consultant tracking sales and performance targets
+- **SQL:** MySQL and PostgreSQL on projects
 
 ### Cyber Security
-- **Own studies in how Cyber Security works** Basic tools, vocabulary and best practises 
-- **Catch The Flag excercises** 
+- **Security fundamentals:** Core concepts, common attack types and best practices 
+- **Capture The Flag exercises:** TryHackMe
+- **Linux command line:** Navigating and searching file systems, file permissions, processes, piping and text processing (grep, find, awk), SSH
 
 ---
 
-## 💾 My favourite projects
+## 💾 My favorite projects
 
-Here are a couple of picks from what I have done at school and on my free time. 
+Here are a couple of picks from what I have done during studies and in my free time. 
 
 ### [Movie App](https://github.com/oamk-group-14/movie-web-app)
 
-Full-stack web application developed as a group for Web Programming course. The application uses The Movie Database (TMDB) API to retrieve movie and TV show information. It is built with React, Node.js, Express, and PostgreSQL, with Docker used to run the application services. In addition to the required features, the project includes an AI-powered recommendation system that provides personalized movie and TV show suggestions based on each user's favorites and reviews.
+Full-stack web application developed as a group for a Web Programming course. The application uses The Movie Database (TMDB) API to retrieve movie and TV show information. It is built with React, Node.js, Express, and PostgreSQL, with Docker used to run the application services. In addition to the required features, the project includes an AI-powered recommendation system that provides personalized movie and TV show suggestions based on each user's favorites and reviews.
 
-My contributions included frontend authentication state management, account deletion, the "Now Showing in Theatres" feature, and the full group functionality: creating and deleting groups, join requests, member management, and adding movies and TV shows to group pages. I also built the home page and the favourite list sharing feature, and served as the team's Scrum Master.
+My contributions included frontend authentication state management, account deletion, the "Now Showing in Theatres" feature, and the full group functionality: creating and deleting groups, join requests, member management, as well as adding movies and TV shows to group pages. I also built the home page and the favorite list sharing feature, and served as the team's Scrum Master.
 
-### [Budgeting App](https://github.com/Lylled/Expense-App)
+### [Budgeting App (in progress)](https://github.com/Lylled/Expense-App)
 
-Working on this at the moment. Mobile application built on my own time to track personal and household expenses from receipts. It uses Google's ML Kit for on-device text recognition, combined with a native document scanner (Jetpack Compose via Expo's @expo/ui) that detects, crops, and deskews the receipt before reading it. The app is built with React Native, Expo Router, and TypeScript, with Supabase (PostgreSQL + Row Level Security) handling authentication and data storage, currently targeting Android. It differs from banks' own budget trackers by being more flexible and customizable.
+Mobile application built in my own time to track personal and household expenses from receipts. It uses Google's ML Kit for on-device text recognition, combined with a native document scanner (Jetpack Compose via Expo's @expo/ui) that detects, crops, and deskews the receipt before reading it. The app is built with React Native, Expo Router, and TypeScript, with Supabase (PostgreSQL + Row Level Security) handling authentication and data storage, currently targeting Android. It differs from banks' own budget trackers by being more flexible and customizable.
 
-### [Name generator](https://github.com/Lylled/nimigeneraattori)
+### [Name generator](https://github.com/Lylled/nimigeneraattori) [Live Demo](https://lylled.github.io/nimigeneraattori/)
 
-Web application built on my own time that generates period-appropriate Finnish names for characters in creative projects. The name lists are built with a Python data pipeline, and the front end uses React, TypeScript and Vite. It is deployed as a static site on GitHub Pages through GitHub Actions, with automated tests in Vitest. Beyond basic name generation, the app adds surnames that match the era and region, so a western Finnish character born in the early 1800s gets a patronymic and a farm name instead of a modern surname. It also supports Finland-Swedish and Orthodox naming traditions, style filters, and name cards showing each name's origin and a popularity chart. AI was used to help tag and describe the names before the site was published, so the site itself makes no AI calls, which keeps it fast and free to host.
+Web application built in my own time that generates period-appropriate Finnish names for characters in creative projects. The name lists are built with a Python data pipeline, and the front end uses React, TypeScript and Vite. It is deployed as a static site on GitHub Pages through GitHub Actions, with automated tests in Vitest. Beyond basic name generation, the app adds surnames that match the era and region, so a western Finnish character born in the early 1800s gets a patronymic and a farm name instead of a modern surname. It also supports Finland-Swedish and Orthodox naming traditions, style filters, and name cards showing each name's origin and a popularity chart. AI was used to help tag and describe the names before the site was published, so the site itself makes no AI calls, which keeps it fast and free to host.
 
 ---
 
 ## 🤖 Next 
 
-After completing the projects I'm working on at the moment, I want to focus on Catch The Flag excercises and developing more advanced AI functionalities in applications.  
+After completing the projects I'm working on at the moment, I want to focus on Capture The Flag exercises and developing more advanced AI functionalities in applications.  
 
 **Projects I'm working on**
 - Budgeting App (see above)
