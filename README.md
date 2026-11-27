@@ -43,7 +43,7 @@ Full-stack web application developed as a group for a Web Programming course. Th
 
 My contributions included frontend authentication state management, account deletion, the "Now Showing in Theatres" feature, and the full group functionality: creating and deleting groups, join requests, member management, as well as adding movies and TV shows to group pages. I also built the home page and the favorite list sharing feature, and served as the team's Scrum Master.
 
-### [Budgeting App (in progress)](https://github.com/Lylled/Expense-App)
+### [Kuittikamu (in progress)](https://github.com/Lylled/Expense-App)
 
 Mobile application built in my own time to track personal and household expenses from receipts. It uses Google's ML Kit for on-device text recognition, combined with a native document scanner (Jetpack Compose via Expo's @expo/ui) that detects, crops, and deskews the receipt before reading it. The app is built with React Native, Expo Router, and TypeScript, with Supabase (PostgreSQL + Row Level Security) handling authentication and data storage, currently targeting Android. It differs from banks' own budget trackers by being more flexible and customizable.
 
